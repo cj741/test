@@ -1,4 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<<<<<<< HEAD
 #branch1
  add branch 2
+=======
+>>>>>>> parent of 91f2e82... branch1
